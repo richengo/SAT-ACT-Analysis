@@ -1,6 +1,6 @@
-# Project 1: SAT & ACT Analysis
+# SAT & ACT Analysis
 
-### Riche Ngo, SG-DSI-18
+### Riche Ngo
 
 ## Problem Statement
 
